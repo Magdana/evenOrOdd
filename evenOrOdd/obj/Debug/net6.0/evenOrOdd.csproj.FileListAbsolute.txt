@@ -1,0 +1,15 @@
+C:\Users\magda\source\repos\evenOrOdd\evenOrOdd\bin\Debug\net6.0\evenOrOdd.exe
+C:\Users\magda\source\repos\evenOrOdd\evenOrOdd\bin\Debug\net6.0\evenOrOdd.deps.json
+C:\Users\magda\source\repos\evenOrOdd\evenOrOdd\bin\Debug\net6.0\evenOrOdd.runtimeconfig.json
+C:\Users\magda\source\repos\evenOrOdd\evenOrOdd\bin\Debug\net6.0\evenOrOdd.dll
+C:\Users\magda\source\repos\evenOrOdd\evenOrOdd\bin\Debug\net6.0\evenOrOdd.pdb
+C:\Users\magda\source\repos\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.csproj.AssemblyReference.cache
+C:\Users\magda\source\repos\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\source\repos\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.AssemblyInfoInputs.cache
+C:\Users\magda\source\repos\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.AssemblyInfo.cs
+C:\Users\magda\source\repos\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\magda\source\repos\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.dll
+C:\Users\magda\source\repos\evenOrOdd\evenOrOdd\obj\Debug\net6.0\refint\evenOrOdd.dll
+C:\Users\magda\source\repos\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.pdb
+C:\Users\magda\source\repos\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.genruntimeconfig.cache
+C:\Users\magda\source\repos\evenOrOdd\evenOrOdd\obj\Debug\net6.0\ref\evenOrOdd.dll
